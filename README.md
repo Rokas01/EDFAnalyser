@@ -6,3 +6,5 @@ This application was initially developed to aid in detection of EEG spikes commo
 This release utilzies pyedflib library to read and load edf/edf+ files.
 
 Feel free to contact me in case you have any further questions
+
+Only bin release is available and can be downloaded from 'releases' section.
