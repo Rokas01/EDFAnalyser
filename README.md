@@ -8,3 +8,4 @@ This release utilizes pydedflib library to read and load edf/edf+ files.
 Feel free to contact me in case you have any further questions
 
 Only bin release is available and can be downloaded from 'releases' section.
+
